@@ -1,0 +1,13 @@
+org/cbioportal/security/spring/authentication/googleplus/GoogleplusConnectionSignUp.class
+org/cbioportal/security/spring/CancerStudyPermissionEvaluator.class
+org/cbioportal/security/spring/sessionservice/SessionServiceSecurity.class
+org/cbioportal/security/spring/authentication/googleplus/PortalUserDetailsService.class
+org/cbioportal/security/spring/authentication/keycloak/SAMLUserDetailsServiceImpl.class
+org/cbioportal/security/spring/authentication/googleplus/GoogleplusUserDetailsService.class
+org/cbioportal/security/spring/authentication/PortalUserDetails.class
+org/cbioportal/security/spring/authentication/openID/PortalUserDetailsService.class
+org/cbioportal/security/spring/authentication/saml/SAMLUserDetailsServiceImpl.class
+org/cbioportal/security/spring/PortalSavedRequestAwareAuthenticationSuccessHandler.class
+org/cbioportal/security/spring/authentication/googleplus/GoogleplusConnectionFactory.class
+org/cbioportal/security/spring/authentication/ldap/LDAPUserDetailsContextMapper.class
+org/cbioportal/security/spring/sessionservice/RestAuthenticationEntryPoint.class
